@@ -7,9 +7,9 @@ ________________________________________________________________________________
 I learned to program early, at the age of 14, with pen and paper in Pascal, since then I've learned some languages like C, C++, JAVA, JS, Dart, SQL. I have experience with back-end and front-end, I started in the mobile development area (Android Studio) with JAVA and SQL in 2015. 
 <br>
 <br>
-Atualmente entusiasta com Flutter e Firebase há quase 2 anos.
+Atualmente entusiasta com Flutter e Firebase há quase 2 anos. | Currently Flutter and Firebase enthusiastic for almost 2 years. 
 <br>
-Meu foco de estudo recente (basicamente MERN Stack): 
+Meu foco de estudo recente (basicamente MERN Stack) | My recent focus of study (MERN Stack) : 
   <ul>
     <li>React</li>
     <li>React Native</li>
