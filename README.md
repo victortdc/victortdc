@@ -2,8 +2,16 @@
 <br>
 Aprendi a programar cedo, com os 14 anos, com papel e caneta em Pascal, desde então aprendi algumas linguagens como C, C++, JAVA, JS, Dart, SQL. Tenho experiência com back-end e front-end, iniciei na área de desenvolvimento mobile (Android Studio) com JAVA e SQL em 2015. 
 <br>
-Atualmente entusiasta com Flutter e Firebase há quase 2 anos, além de estar estudando React+React Native+Node.js
 <br>
+Atualmente entusiasta com Flutter e Firebase há quase 2 anos.
+<br>
+O que ando estudando recentemente:
+  <ul>
+    <li>React</li>
+    <li>React Native</li>
+    <li>Node.Js </li>
+    <li>NoSQL databases </li>
+  </ul>
 <!--
 **victortdc/victortdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
