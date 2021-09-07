@@ -5,7 +5,7 @@ Aprendi a programar cedo, com os 14 anos, com papel e caneta em Pascal, desde en
 <br>
 Atualmente entusiasta com Flutter e Firebase há quase 2 anos.
 <br>
-O que ando estudando recentemente (basicamente MERN Stack): 
+Meu foco de estudo recente (basicamente MERN Stack): 
   <ul>
     <li>React</li>
     <li>React Native</li>
