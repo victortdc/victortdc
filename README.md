@@ -41,7 +41,7 @@ Meu foco de estudo recente (basicamente MERN Stack) | My recent focus of study (
 <div> 
   <a href="https://www.linkedin.com/in/victor-carvalho-96a977118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-  ![Snake animation](https://github.com/rafaballerini/victortdc/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/victortdc/victortdc/blob/output/github-contribution-grid-snake.svg)
  
 </div>
    
