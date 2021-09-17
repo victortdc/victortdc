@@ -17,8 +17,12 @@ Meu foco de estudo recente (basicamente MERN Stack) | My recent focus of study (
     <li>NoSQL databases </li>
   </ul>
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victortdc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victortdc&layout=compact&langs_count=7&theme=dracula"/>
+ <div>
+  <a href="https://github.com/victortdc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victortdc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victortdc&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <!--
 **victortdc/victortdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
